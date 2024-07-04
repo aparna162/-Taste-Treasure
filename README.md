@@ -13,4 +13,4 @@ Taste Treasure is a recipe exploration app built using React.js. It leverages th
 - JavaScript (ES6+)
 - MealDB API
 ## API Usage
-- This project utilizes the MealDB API to fetch and display recipe data. Make sure to obtain an API key if needed and include instructions on how to set it up in your project.
+- This project utilizes the MealDB API to fetch and display recipe data. 
